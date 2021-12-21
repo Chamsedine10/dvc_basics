@@ -1,0 +1,6 @@
+[core]
+    remote = stockage
+['remote "storage"']
+    url = s3://mybucketchams/dvc/
+['remote "stockage"']
+    url = s3://mybucketchams/dvc/
